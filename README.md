@@ -15,3 +15,11 @@ Sales Person segment wise performance
 
 Product Categorical Sales with sold quantity
 ![image](https://github.com/AbdullahSalman237/EffiData-Insights/assets/95604914/10c249f0-282d-4d87-9d3f-ec4924638c50)
+
+
+![image](https://github.com/AbdullahSalman237/EffiData-Insights/assets/95604914/2feacac7-9e54-4f52-a456-3cbf0b13b667)
+
+![image](https://github.com/AbdullahSalman237/EffiData-Insights/assets/95604914/90265611-ef34-4ea8-bf67-926054fbe73f)
+
+![image](https://github.com/AbdullahSalman237/EffiData-Insights/assets/95604914/06556182-5ec7-46fb-b3fa-130defcb3abe)
+
